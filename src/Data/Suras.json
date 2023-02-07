@@ -1,0 +1,572 @@
+[
+  {
+    "index": "1",
+    "name": "الفاتحة",
+    "ename": "The Opener"
+  },
+  {
+    "index": "2",
+    "name": "البقرة",
+    "ename": "The Cow"
+  },
+  {
+    "index": "3",
+    "name": "آل عمران",
+    "ename": "Family of Imran"
+  },
+  {
+    "index": "4",
+    "name": "النساء",
+    "ename": "The Women"
+  },
+  {
+    "index": "5",
+    "name": "المائدة",
+    "ename": "The Table Spread"
+  },
+  {
+    "index": "6",
+    "name": "الأنعام",
+    "ename": "The Cattle"
+  },
+  {
+    "index": "7",
+    "name": "الأعراف",
+    "ename": "The Heights"
+  },
+  {
+    "index": "8",
+    "name": "الأنفال",
+    "ename": "The Spoils of War"
+  },
+  {
+    "index": "9",
+    "name": "التوبة",
+    "ename": "The Repentance"
+  },
+  {
+    "index": "10",
+    "name": "يونس",
+    "ename": "Jonah"
+  },
+  {
+    "index": "11",
+    "name": "هود",
+    "ename": "Hud"
+  },
+  {
+    "index": "12",
+    "name": "يوسف",
+    "ename": "Joseph"
+  },
+  {
+    "index": "13",
+    "name": "الرعد",
+    "ename": "The Thunder"
+  },
+  {
+    "index": "14",
+    "name": "ابراهيم",
+    "ename": "Abrahim"
+  },
+  {
+    "index": "15",
+    "name": "الحجر",
+    "ename": "The Rocky Tract"
+  },
+  {
+    "index": "16",
+    "name": "النحل",
+    "ename": "The Bee"
+  },
+  {
+    "index": "17",
+    "name": "الإسراء",
+    "ename": "The Night Journey"
+  },
+  {
+    "index": "18",
+    "name": "الكهف",
+    "ename": "The Cave"
+  },
+  {
+    "index": "19",
+    "name": "مريم",
+    "ename": "Mary"
+  },
+  {
+    "index": "20",
+    "name": "طه",
+    "ename": "Ta-Ha"
+  },
+  {
+    "index": "21",
+    "name": "الأنبياء",
+    "ename": "The Prophets"
+  },
+  {
+    "index": "22",
+    "name": "الحج",
+    "ename": "The Pilgrimage"
+  },
+  {
+    "index": "23",
+    "name": "المؤمنون",
+    "ename": "The Believers"
+  },
+  {
+    "index": "24",
+    "name": "النور",
+    "ename": "The Light"
+  },
+  {
+    "index": "25",
+    "name": "الفرقان",
+    "ename": "The Criterian"
+  },
+  {
+    "index": "26",
+    "name": "الشعراء",
+    "ename": "The Poets"
+  },
+  {
+    "index": "27",
+    "name": "النمل",
+    "ename": "The Ant"
+  },
+  {
+    "index": "28",
+    "name": "القصص",
+    "ename": "The Stories"
+  },
+  {
+    "index": "29",
+    "name": "العنكبوت",
+    "ename": "The Spider"
+  },
+  {
+    "index": "30",
+    "name": "الروم",
+    "ename": "The Romans"
+  },
+  {
+    "index": "31",
+    "name": "لقمان",
+    "ename": "Luqman"
+  },
+  {
+    "index": "32",
+    "name": "السجدة",
+    "ename": "The Prostration"
+  },
+  {
+    "index": "33",
+    "name": "الأحزاب",
+    "ename": "The Combined Forces"
+  },
+  {
+    "index": "34",
+    "name": "سبإ",
+    "ename": "Sheba"
+  },
+  {
+    "index": "35",
+    "name": "فاطر",
+    "ename": "Originator"
+  },
+  {
+    "index": "36",
+    "name": "يس",
+    "ename": "Ya Sin"
+  },
+  {
+    "index": "37",
+    "name": "الصافات",
+    "ename": "Those who set the Ranks"
+  },
+  {
+    "index": "38",
+    "name": "ص",
+    "ename": "The Letter 'Saad'"
+  },
+  {
+    "index": "39",
+    "name": "الزمر",
+    "ename": "The Troops"
+  },
+  {
+    "index": "40",
+    "name": "غافر",
+    "ename": "The Forgiver"
+  },
+  {
+    "index": "41",
+    "name": "فصلت",
+    "ename": "Explained in Detail"
+  },
+  {
+    "index": "42",
+    "name": "الشورى",
+    "ename": "The Consultation"
+  },
+  {
+    "index": "43",
+    "name": "الزخرف",
+    "ename": "The Ornaments of Gold"
+  },
+  {
+    "index": "44",
+    "name": "الدخان",
+    "ename": "The Smoke"
+  },
+  {
+    "index": "45",
+    "name": "الجاثية",
+    "ename": "The Crouching"
+  },
+  {
+    "index": "46",
+    "name": "الأحقاف",
+    "ename": "The Wind-Curved Sandhills"
+  },
+  {
+    "index": "47",
+    "name": "محمد",
+    "ename": "Muhammad"
+  },
+  {
+    "index": "48",
+    "name": "الفتح",
+    "ename": "The Victory"
+  },
+  {
+    "index": "49",
+    "name": "الحجرات",
+    "ename": "The Rooms"
+  },
+  {
+    "index": "50",
+    "name": "ق",
+    "ename": "The Letter 'Qaf'"
+  },
+  {
+    "index": "51",
+    "name": "الذاريات",
+    "ename": "The Winnowing Winds"
+  },
+  {
+    "index": "52",
+    "name": "الطور",
+    "ename": "The Mount"
+  },
+  {
+    "index": "53",
+    "name": "النجم",
+    "ename": "The Star"
+  },
+  {
+    "index": "54",
+    "name": "القمر",
+    "ename": "The Moon"
+  },
+  {
+    "index": "55",
+    "name": "الرحمن",
+    "ename": "The Beneficent"
+  },
+  {
+    "index": "56",
+    "name": "الواقعة",
+    "ename": "The Inevitable"
+  },
+  {
+    "index": "57",
+    "name": "الحديد",
+    "ename": "The Iron"
+  },
+  {
+    "index": "58",
+    "name": "المجادلة",
+    "ename": "The Pleading Woman"
+  },
+  {
+    "index": "59",
+    "name": "الحشر",
+    "ename": "The Exile"
+  },
+  {
+    "index": "60",
+    "name": "الممتحنة",
+    "ename": "She that is to be examined"
+  },
+  {
+    "index": "61",
+    "name": "الصف",
+    "ename": "The Ranks"
+  },
+  {
+    "index": "62",
+    "name": "الجمعة",
+    "ename": "The Congregation, Friday"
+  },
+  {
+    "index": "63",
+    "name": "المنافقون",
+    "ename": "The Hypocrites"
+  },
+  {
+    "index": "64",
+    "name": "التغابن",
+    "ename": "The Mutual Disillusion"
+  },
+  {
+    "index": "65",
+    "name": "الطلاق",
+    "ename": "The Divorce"
+  },
+  {
+    "index": "66",
+    "name": "التحريم",
+    "ename": "The Prohibtiion"
+  },
+  {
+    "index": "67",
+    "name": "الملك",
+    "ename": "The Sovereignty"
+  },
+  {
+    "index": "68",
+    "name": "القلم",
+    "ename": "The Pen"
+  },
+  {
+    "index": "69",
+    "name": "الحاقة",
+    "ename": "The Reality"
+  },
+  {
+    "index": "70",
+    "name": "المعارج",
+    "ename": "The Ascending Stairways"
+  },
+  {
+    "index": "71",
+    "name": "نوح",
+    "ename": "Noah"
+  },
+  {
+    "index": "72",
+    "name": "الجن",
+    "ename": "The Jinn"
+  },
+  {
+    "index": "73",
+    "name": "المزمل",
+    "ename": "The Enshrouded One"
+  },
+  {
+    "index": "74",
+    "name": "المدثر",
+    "ename": "The Cloaked One"
+  },
+  {
+    "index": "75",
+    "name": "القيامة",
+    "ename": "The Resurrection"
+  },
+  {
+    "index": "76",
+    "name": "الانسان",
+    "ename": "The Man"
+  },
+  {
+    "index": "77",
+    "name": "المرسلات",
+    "ename": "The Emissaries"
+  },
+  {
+    "index": "78",
+    "name": "النبإ",
+    "ename": "The Tidings"
+  },
+  {
+    "index": "79",
+    "name": "النازعات",
+    "ename": "Those who drag forth"
+  },
+  {
+    "index": "80",
+    "name": "عبس",
+    "ename": "He Frowned"
+  },
+  {
+    "index": "81",
+    "name": "التكوير",
+    "ename": "The Overthrowing"
+  },
+  {
+    "index": "82",
+    "name": "الإنفطار",
+    "ename": "The Cleaving"
+  },
+  {
+    "index": "83",
+    "name": "المطففين",
+    "ename": "The Defrauding"
+  },
+  {
+    "index": "84",
+    "name": "الإنشقاق",
+    "ename": "The Sundering"
+  },
+  {
+    "index": "85",
+    "name": "البروج",
+    "ename": "The Mansions of the Stars"
+  },
+  {
+    "index": "86",
+    "name": "الطارق",
+    "ename": "The Nightcommer"
+  },
+  {
+    "index": "87",
+    "name": "الأعلى",
+    "ename": "The Most High"
+  },
+  {
+    "index": "88",
+    "name": "الغاشية",
+    "ename": "The Overwhelming"
+  },
+  {
+    "index": "89",
+    "name": "الفجر",
+    "ename": "The Dawn"
+  },
+  {
+    "index": "90",
+    "name": "البلد",
+    "ename": "The City"
+  },
+  {
+    "index": "91",
+    "name": "الشمس",
+    "ename": "The Sun"
+  },
+  {
+    "index": "92",
+    "name": "الليل",
+    "ename": "The Night"
+  },
+  {
+    "index": "93",
+    "name": "الضحى",
+    "ename": "The Morning Hours"
+  },
+  {
+    "index": "94",
+    "name": "الشرح",
+    "ename": "The Relief"
+  },
+  {
+    "index": "95",
+    "name": "التين",
+    "ename": "The Fig"
+  },
+  {
+    "index": "96",
+    "name": "العلق",
+    "ename": "The Clot"
+  },
+  {
+    "index": "97",
+    "name": "القدر",
+    "ename": "The Power"
+  },
+  {
+    "index": "98",
+    "name": "البينة",
+    "ename": "The Clear Proof"
+  },
+  {
+    "index": "99",
+    "name": "الزلزلة",
+    "ename": "The Earthquake"
+  },
+  {
+    "index": "100",
+    "name": "العاديات",
+    "ename": "The Courser"
+  },
+  {
+    "index": "101",
+    "name": "القارعة",
+    "ename": "The Calamity"
+  },
+  {
+    "index": "102",
+    "name": "التكاثر",
+    "ename": "The Rivalry in world increase"
+  },
+  {
+    "index": "103",
+    "name": "العصر",
+    "ename": "The Declining Day"
+  },
+  {
+    "index": "104",
+    "name": "الهمزة",
+    "ename": "The Traducer"
+  },
+  {
+    "index": "105",
+    "name": "الفيل",
+    "ename": "The Elephant"
+  },
+  {
+    "index": "106",
+    "name": "قريش",
+    "ename": "Quraysh"
+  },
+  {
+    "index": "107",
+    "name": "الماعون",
+    "ename": "The Small Kindesses"
+  },
+  {
+    "index": "108",
+    "name": "الكوثر",
+    "ename": "The Abundance"
+  },
+  {
+    "index": "109",
+    "name": "الكافرون",
+    "ename": "The Disbelievers"
+  },
+  {
+    "index": "110",
+    "name": "النصر",
+    "ename": "The Divine Support"
+  },
+  {
+    "index": "111",
+    "name": "المسد",
+    "ename": "The Palm Fiber"
+  },
+  {
+    "index": "112",
+    "name": "الإخلاص",
+    "ename": "The Sincerity"
+  },
+  {
+    "index": "113",
+    "name": "الفلق",
+    "ename": "The Daybreak"
+  },
+  {
+    "index": "114",
+    "name": "الناس",
+    "ename": "The Mankind"
+  }
+]
